@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/logo.png" alt="BrandUp Logo" width="400"/>
+  <img src="assets/logo.jpeg" alt="BrandUp Logo" width="400"/>
 </p>
 
 # 🍄 BrandUp™ — Level Up Your Brand 🚀
