@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/logo.png" alt="BrandUp Logo" width="400"/>
+</p>
+
 # 🍄 BrandUp™ — Level Up Your Brand 🚀
 
 > **"Ready to level up? Let's BrandUp!"**
