@@ -19,3 +19,34 @@ We specialize in:
 ---
 
 ## 🛠️ Our Skill Tree & Tech Stack
+
+
+## 🕹️ Key Features & Services
+
+### 1. 🎨 Visual Branding & Identity
+* Custom logo generation (including our signature retro arcade monograms)
+* Brand style guides (colors, typography, tone of voice)
+* Pitch decks and presentation kits for startup founders
+
+### 2. ⚡ AI-Assisted Content Creation
+* High-converting social media copy
+* Batch content generation for Instagram, TikTok, and LinkedIn
+* Eye-catching visual assets and promotional banners
+
+### 3. 📈 Nano-Enterprise Growth Strategy
+* Low-budget, high-ROI social media campaigns
+* Community-building strategies tailored for student networks
+* Product-market fit positioning for tech & digital services
+
+---
+
+## 🤝 Let's Team Up!
+
+Are you a Gen Z creator, student founder, or nano-business owner ready to claim your high score?
+
+
+---
+
+<p align="center">
+  <b>BrandUp™</b> • <i>Ready to level up? Let's BrandUp!</i>
+</p>
