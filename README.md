@@ -51,6 +51,9 @@ Are you a Gen Z creator, student founder, or nano-business owner ready to claim 
 
 
 ---
+<p align="center">
+  <video src="assets/sunset-pixel.mp4" autoplay loop muted playsinline width="100%"></video>
+</p>
 
 <p align="center">
   <b>BrandUp™</b> • <i>Ready to level up? Let's BrandUp!</i>
