@@ -51,6 +51,7 @@ We specialize in:
 <p align="center">
   <img src="assets/sunset-footer.gif" alt="BrandUp Retro Sunset" width="100%">
 </p>
+
 Are you a Gen Z creator, student founder, or nano-business owner ready to claim your high score?
 
 
