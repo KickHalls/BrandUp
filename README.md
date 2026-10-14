@@ -49,7 +49,7 @@ We specialize in:
 
 
 <p align="center">
-  <img src="assets/sunset-footer.gif" alt="BrandUp Retro Sunset" width="50%" height="50%">
+  <img src="assets/sunset-footer.gif" alt="BrandUp Retro Sunset" style="width: 50%; height: 160px; object-fit: cover;">
 </p>
 
 Are you a Gen Z creator, student founder, or nano-business owner ready to claim your high score?
