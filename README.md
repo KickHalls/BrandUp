@@ -46,13 +46,13 @@ We specialize in:
 ---
 
 ## 🤝 Let's Team Up!
-
+Are you a Gen Z creator, student founder, or nano-business owner ready to claim your high score?
 
 <p align="center">
   <img src="assets/sunset-footer.gif" alt="BrandUp Retro Sunset" style="width: 100%; height: 100%; object-fit: cover;">
 </p>
 
-Are you a Gen Z creator, student founder, or nano-business owner ready to claim your high score?
+
 
 
 
